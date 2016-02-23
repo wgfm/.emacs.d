@@ -1,0 +1,290 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/wgfm/dev/clj/mooc/training-day/" . "src/")
+ ("/Users/wgfm/dev/clj/mooc/" . "training-day/")
+ ("/Users/wgfm/dev/clj/advent/one/src/" . "one/")
+ ("/Users/wgfm/dev/js/react/tut/react-tutorial-master/" . "public/")
+ ("/Users/wgfm/dev/js/react/react-0.14.3/examples/" . "basic/")
+ ("/Users/wgfm/dev/js/react/react-0.14.3/" . "examples/")
+ ("/Users/wgfm/dev/js/" . "react/")
+ ("/Users/wgfm/dev/js/react/" . "tut/")
+ ("/Users/wgfm/Documents/Kitematic/hello-world-nginx/" . "website_files/")
+ ("/Users/wgfm/Documents/Kitematic/" . "hello-world-nginx/")
+ ("/Users/wgfm/Documents/" . "Kitematic/")
+ ("/Users/wgfm/dev/energq/sandback/" . "rabbit/")
+ ("/Users/wgfm/dev/energq/" . "meetings/")
+ ("/Users/wgfm/.emacs.d/elpa/" . "paredit-20150217.713/")
+ ("/Users/wgfm/.emacs.d/" . "core/")
+ ("/Users/wgfm/dev/portal/src/main/cljs/profile_management/" . "src/")
+ ("/Users/wgfm/dev/portal/" . "src/")
+ ("/Users/wgfm/dev/clj/lightsabre-/src/" . "lightsabre/")
+ ("/Users/wgfm/dev/clj/lightsabre-/" . "src/")
+ ("/Users/wgfm/dev/portal/src/main/cljs/profile_management/src/" . "profile_management/")
+ ("/Users/wgfm/dev/portal/src/main/cljs/" . "profile_management/")
+ ("/Users/wgfm/dev/portal/src/main/" . "cljs/")
+ ("/Users/wgfm/dev/portal/src/" . "main/")
+ ("/Users/wgfm/dev/clj/lightsabre/resources/" . "public/")
+ ("/Users/wgfm/dev/clj/lightsabre/src/" . "lightsabre/")
+ ("/Users/wgfm/dev/clj/lightsabre/" . "src/")
+ ("/Users/wgfm/dev/clj/anakin/env/dev/clj/" . "anakin/")
+ ("/Users/wgfm/dev/clj/anakin/env/dev/" . "clj/")
+ ("/Users/wgfm/dev/clj/anakin/env/" . "dev/")
+ ("/Users/wgfm/dev/clj/anakin/test/clj/" . "anakin/")
+ ("/Users/wgfm/dev/clj/anakin/src/clj/" . "anakin/")
+ ("/Users/wgfm/dev/clj/energq/obiwan/resources/" . "public/")
+ ("/Users/wgfm/dev/clj/anakin/resources/" . "public/")
+ ("/Users/wgfm/dev/clj/anakin/test/" . "clj/")
+ ("/Users/wgfm/dev/clj/anakin/" . "src/")
+ ("/Users/wgfm/dev/clj/anakin/src/" . "anakin/")
+ ("/Users/wgfm/dev/haskell/fp101x/" . "7/")
+ ("/Users/wgfm/dev/haskell/" . "fp101x/")
+ ("/Users/wgfm/dev/clj/cmd-line-args/test/" . "cmd_line_args/")
+ ("/Users/wgfm/dev/clj/cmd-line-args/src/" . "cmd_line_args/")
+ ("/Users/wgfm/dev/clj/cmd-line-args/" . "src/")
+ ("/Users/" . "wgfm/")
+ ("/" . "Users/")
+ ("/Users/wgfm/" . "Documents/")
+ ("/Users/wgfm/dev/clj/energq/obiwan/src/clj/" . "obiwan/")
+ ("/Users/wgfm/dev/clj/energq/obiwan/src/" . "clj/")
+ ("/Users/wgfm/dev/clj/energq/obiwan/" . "resources/")
+ ("/Users/wgfm/dev/clj/energq/" . "obiwan/")
+ ("/Users/wgfm/dev/clj/" . "mooc/")
+ ("/Users/wgfm/dev/" . "energq/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/wgfm/dev/clj/mooc/training-day/src/"
+ "/Users/wgfm/Documents/"
+ "/Users/wgfm/dev/energq/meetings/"
+ "/Users/wgfm/.emacs.d/"
+ "/Users/wgfm/dev/clj/advent/one/src/one/"
+ "/Users/wgfm/dev/clj/advent/one/"
+ "/Users/wgfm/dev/clj/lightsabre/src/lightsabre/"
+ "/Users/wgfm/dev/clj/anakin/src/anakin/"
+ "/Users/wgfm/dev/portal/src/main/cljs/profile_management/src/profile_management/"
+ "/Users/wgfm/dev/js/react/tut/react-tutorial-master/public/scripts/"
+ "/Users/wgfm/dev/energq/site/"
+ "/Users/wgfm/dev/energq/site/css/"
+ "/Users/wgfm/dev/js/react/tut/react-tutorial-master/public/"
+ "/Users/wgfm/dev/js/react/tut/"
+ "/Users/wgfm/dev/js/react/react-0.14.3/examples/basic/"
+ "/Users/wgfm/Documents/Kitematic/hello-world-nginx/website_files/"
+ "/Users/wgfm/dev/energq/sandback/rabbit/"
+ "/Users/wgfm/dev/haskell/fp101x/7/"
+ "/Users/wgfm/.emacs.d/elpa/paredit-20150217.713/"
+ "/etc/"
+ "/Users/wgfm/dev/clj/anakin/"
+ "/Users/wgfm/dev/clj/lightsabre/"
+ "/Users/wgfm/dev/portal/src/main/cljs/profile_management/"
+ "/Users/wgfm/dev/portal/src/main/cljs/profile_management/src/profile_management/net/"
+ "/Users/wgfm/dev/energq/"
+ "/Users/wgfm/dev/clj/lightsabre-/src/lightsabre/"
+ "/Users/wgfm/dev/clj/lightsabre/resources/public/"
+ "/Users/wgfm/dev/clj/energq/obiwan/"
+ "/Users/wgfm/dev/clj/anakin/src/clj/anakin/"
+ "/Users/wgfm/dev/clj/anakin/env/dev/clj/anakin/"
+ "/Users/wgfm/dev/clj/anakin/test/clj/anakin/"
+ "/Users/wgfm/dev/clj/energq/obiwan/resources/"
+ "/Users/wgfm/dev/clj/anakin/resources/public/"
+ "/Users/wgfm/dev/clj/anakin/test/anakin/"
+ "/Users/wgfm/.lein/"
+ "/Users/wgfm/dev/clj/energq/obiwan/src/clj/obiwan/"
+ "/Users/wgfm/dev/haskell/fp101x/lab3/"
+ "/Users/wgfm/dev/haskell/fp101x/6/"
+ "/Users/wgfm/dev/clj/cmd-line-args/"
+ "/Users/wgfm/dev/clj/cmd-line-args/src/cmd_line_args/"
+ "/Users/wgfm/dev/clj/cmd-line-args/test/cmd_line_args/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "training_day.clj"
+ "enshorejava.md"
+ "icare3.md"
+ "160112.org"
+ "woning.org"
+ "init.el"
+ "woning.html"
+ "core.clj"
+ "one.clj"
+ "core.cljs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/wgfm/dev/clj/mooc/training-day/src/" (22215 35209 0 0) "training_day.clj" "../" "./")
+
+ ("/Users/wgfm/dev/clj/mooc/training-day/" (22215 35318 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "dev-resources/" ".travis.yml" ".midje-grading-config.clj" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/mooc/" (22215 35208 0 0) "training-day/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/" (22215 35203 0 0) "mooc/" "lightsabre-/" "lightsabre/" "energq/" "cmd-line-args/" "anakin/" "advent/" "../" "./")
+
+ ("/Users/wgfm/dev/" (22201 50090 0 0) "vertx/" "test/" "ruby/" "portal/" "main-java/" "js/" "haskell/" "go/" "energq/" "docker/" "clj/" "akka/" ".DS_Store" "../" "./")
+
+ ("/Users/wgfm/" (22213 59210 0 0) "wgfm.tar.gz" "vim73.tar.gz" "Public/" "Pictures/" "Photo on 25-11-15 at 12.06.jpg" "Photo on 25-11-15 at 12.05.jpg" "Music/" "Movies/" "localMaven/" "Library/" "IdeaProjects/" "dwn/" "Downloads/" "dotfiles/" "Documents/" "dev/" "Desktop/" "clj" "backup/" "apps/" "Applications/" ".zinc/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".ssh/" ".sbt/" ".qt/" ".oracle_jre_usage/" ".nx/" ".npm/" ".mongorc.js" ".m2/" ".lobo/" ".lesshst" ".lein_history" ".lein/" ".ivy2/" ".IntelliJIdea15/" ".IdeaIC15/" ".gradle/" ".gitconfig" ".ghc/" ".erlang.cookie" ".emacs.d.pre-prelude.tar" ".emacs.d/" ".DS_Store" ".docker/" ".dbshell" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_profile" ".bash_history" ".atom/" ".activator/" "../" "./")
+
+ ("/Users/wgfm/Documents/" (22187 36015 0 0) "woning.tex" "woning.org" "woning.html" "Vaste lasten.xlsx" "Telefonische meeting.odt" "Telefonische meeting.docx" "Telefonische meeting.doc" "NoMachine/" "Miniserver.pdf" "madrid/" "Kitematic/" "icare3.md" "enshorejava.md" "architectuur.odt" "2015-11-26+Kickoff+Bosch+notes.docx" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/wgfm/.emacs.d/" (22187 30258 0 0) "vendor/" "var/" "utils/" "tramp" "themes/" "savefile/" "sample/" "README.md" "projectile-bookmarks.eld" "places" "personal/" "modules/" "init.el" "ido.last" "elpa/" "core/" "CONTRIBUTING.md" "backups/" "auto-save-list/" ".projectile" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/wgfm/.lein/" (22175 39827 0 0) "self-installs/" "repl-history" "profiles.clj" "../" "./")
+
+ ("/etc/" (22183 26660 0 0) "zshrc" "zprofile" "xtab" "ttys" "syslog.conf" "sudoers~orig" "sudoers" "sudo_lecture" "ssh/" "snmp/" "shells" "services" "security/" "rtadvd.conf" "rpc" "rmtab" "resolv.conf" "rc.netboot" "rc.common" "racoon/" "protocols" "profile" "ppp/" "postfix/" "php.ini.default-5.2-previous" "php.ini.default" "php-fpm.conf.default" "pf.os" "pf.conf" "pf.anchors/" "periodic/" "paths.d/" "paths" "passwd" "pam.d/" "openldap/" "NX/" "ntp_opendirectory.conf" "ntp.conf" "ntp-restrict.conf" "notify.conf" "nfs.conf" "newsyslog.d/" "newsyslog.conf" "networks" "nanorc" "master.passwd" "manpaths.d/" "manpaths" "man.conf" "mail.rc" "mach_init_per_user.d/" "mach_init_per_login_session.d/" "mach_init.d/" "locate.rc" "localtime" "krb5.keytab" "kern_loader.conf" "irbrc" "hosts~orig" "hosts.equiv" "hosts" "group~previous" "group" "gettytab" "ftpusers" "ftpd.conf.default" "ftpd.conf" "fstab.hd" "find.codes" "emond.d/" "efax.rc" "dnsextd.conf" "defaults/" "cups/" "csh.logout" "csh.login" "csh.cshrc" "com.apple.screensharing.agent.launchd" "bashrc_Apple_Terminal" "bashrc" "autofs.conf" "auto_master" "auto_home" "asl.conf" "asl/" "apache2/" "aliases.db" "aliases" "afpovertcp.cfg" "../" "./")
+
+ ("/Users/wgfm/dev/energq/meetings/" (22164 47959 0 0) "160112.org" "151208.org" "../" "./")
+
+ ("/Users/wgfm/dev/clj/anakin/" (22150 46024 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "dev-resources/" ".lein-repl-history" ".gitignore" "../" "./")
+
+ ("/Users/wgfm/dev/clj/advent/one/" (22141 49935 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "one.clj" "LICENSE" "doc/" "dev-resources/" "CHANGELOG.md" ".lein-repl-history" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/wgfm/dev/clj/advent/one/src/one/" (22141 47557 0 0) "core.clj" "../" "./")
+
+ ("/Users/wgfm/dev/clj/advent/one/src/" (22141 46083 0 0) "one/" "../" "./")
+
+ ("/dev/" (22141 37485 0 0) "bpf4" "ttys001" "ttys000" "vboxnetctl" "vboxdrvu" "vboxdrv" "autofs_control" "autofs_homedirmounter" "autofs_notrigger" "autofs_nowait" "autofs" "tun15" "tun14" "tun13" "tun12" "tun11" "tun10" "tun9" "tun8" "tun7" "tun6" "tun5" "tun4" "tun3" "tun2" "tun1" "tun0" "tty.Bluetooth-Modem" "cu.Bluetooth-Modem" "tty.Bluetooth-Incoming-Port" "cu.Bluetooth-Incoming-Port" "tap15" "tap14" "tap13" "tap12" "tap11" "tap10" "tap9" "tap8" "tap7" "tap6" "tap5" "tap4" "tap3" "tap2" "tap1" "tap0" "xcpm" "rdisk1" "disk1" "rdisk0s3" "disk0s3" "rdisk0s2" "disk0s2" "rdisk0s1" "disk0s1" "io8logtemp" "io8logmt" "io8log" "rdisk0" "disk0" "afsc_type5" "profile" "fbt" "machtrace" "systrace" "sdt" "lockstat" "dtracehelper" "dtrace" "urandom" "random" "fsevents" "bpf3" "bpf2" "bpf1" "bpf0" "ptmx" "ptywf" "ttywf" "ptywe" "ttywe" "ptywd" "ttywd" "ptywc" "ttywc" "ptywb" "ttywb" "ptywa" "ttywa" "ptyw9" "ttyw9" "ptyw8" "ttyw8" "ptyw7" "ttyw7" "ptyw6" "ttyw6" "ptyw5" "ttyw5" "ptyw4" "ttyw4" "ptyw3" "ttyw3" "ptyw2" "ttyw2" "ptyw1" "ttyw1" "ptyw0" "ttyw0" "ptyvf" "ttyvf" "ptyve" "ttyve" "ptyvd" "ttyvd" "ptyvc" "ttyvc" "ptyvb" "ttyvb" "ptyva" "ttyva" "ptyv9" "ttyv9" "ptyv8" "ttyv8" "ptyv7" "ttyv7" "ptyv6" "ttyv6" "ptyv5" "ttyv5" "ptyv4" "ttyv4" "ptyv3" "ttyv3" "ptyv2" "ttyv2" "ptyv1" "ttyv1" "ptyv0" "ttyv0" "ptyuf" "ttyuf" "ptyue" "ttyue" "ptyud" "ttyud" "ptyuc" "ttyuc" "ptyub" "ttyub" "ptyua" "ttyua" "ptyu9" "ttyu9" "ptyu8" "ttyu8" "ptyu7" "ttyu7" "ptyu6" "ttyu6" "ptyu5" "ttyu5" "ptyu4" "ttyu4" "ptyu3" "ttyu3" "ptyu2" "ttyu2" "ptyu1" "ttyu1" "ptyu0" "ttyu0" "ptytf" "ttytf" "ptyte" "ttyte" "ptytd" "ttytd" "ptytc" "ttytc" "ptytb" "ttytb" "ptyta" "ttyta" "ptyt9" "ttyt9" "ptyt8" "ttyt8" "ptyt7" "ttyt7" "ptyt6" "ttyt6" "ptyt5" "ttyt5" "ptyt4" "ttyt4" "ptyt3" "ttyt3" "ptyt2" "ttyt2" "ptyt1" "ttyt1" "ptyt0" "ttyt0" "ptysf" "ttysf" "ptyse" "ttyse" "ptysd" "ttysd" "ptysc" "ttysc" "ptysb" "ttysb" "ptysa" "ttysa" "ptys9" "ttys9" "ptys8" "ttys8" "ptys7" "ttys7" "ptys6" "ttys6" "ptys5" "ttys5" "ptys4" "ttys4" "ptys3" "ttys3" "ptys2" "ttys2" "ptys1" "ttys1" "ptys0" "ttys0" "ptyrf" "ttyrf" "ptyre" "ttyre" "ptyrd" "ttyrd" "ptyrc" "ttyrc" "ptyrb" "ttyrb" "ptyra" "ttyra" "ptyr9" "ttyr9" "ptyr8" "ttyr8" "ptyr7" "ttyr7" "ptyr6" "ttyr6" "ptyr5" "ttyr5" "ptyr4" "ttyr4" "ptyr3" "ttyr3" "ptyr2" "ttyr2" "ptyr1" "ttyr1" "ptyr0" "ttyr0" "ptyqf" "ttyqf" "ptyqe" "ttyqe" "ptyqd" "ttyqd" "ptyqc" "ttyqc" "ptyqb" "ttyqb" "ptyqa" "ttyqa" "ptyq9" "ttyq9" "ptyq8" "ttyq8" "ptyq7" "ttyq7" "ptyq6" "ttyq6" "ptyq5" "ttyq5" "ptyq4" "ttyq4" "ptyq3" "ttyq3" "ptyq2" "ttyq2" "ptyq1" "ttyq1" "ptyq0" "ttyq0" "ptypf" "ttypf" "ptype" "ttype" "ptypd" "ttypd" "ptypc" "ttypc" "ptypb" "ttypb" "ptypa" "ttypa" "ptyp9" "ttyp9" "ptyp8" "ttyp8" "ptyp7" "ttyp7" "ptyp6" "ttyp6" "ptyp5" "ttyp5" "ptyp4" "ttyp4" "ptyp3" "ttyp3" "ptyp2" "ttyp2" "ptyp1" "ttyp1" "ptyp0" "ttyp0" "pfm" "pf" "auditpipe" "auditsessions" "stderr" "stdout" "stdin" "fd/" "klog" "zero" "null" "tty" "console" "../" "./")
+
+ ("/Users/wgfm/dev/energq/" (22128 12491 0 0) "thing.org" "site/" "sandback/" "modules/" "meetings/" "../" "./")
+
+ ("/Users/wgfm/dev/portal/src/main/cljs/profile_management/src/profile_management/net/" (22135 53214 0 0) "comm.cljs" "../" "./")
+
+ ("/Users/wgfm/dev/portal/src/main/cljs/profile_management/" (22135 53214 0 0) "target/" "src/" "resources/" "README.md" "project.clj" "figwheel_server.log" "externs/" ".gitignore" "../" "./")
+
+ ("/Users/wgfm/dev/energq/site/" (22126 32472 0 0) "site.html" "node_modules/" "js/" "frontend.html" "css/" "build/" "../" "./")
+
+ ("/Users/wgfm/dev/portal/src/main/cljs/profile_management/src/profile_management/" (22135 53695 0 0) "validators.cljs" "util.cljs" "toolbar.cljs" "pages.cljs" "net/" "equalizor.cljs" "core.cljs" "components.cljs" "clipboard.cljs" "channels.cljs" "../" "./")
+
+ ("/Users/wgfm/dev/clj/lightsabre/src/lightsabre/" (22141 38043 0 0) "core.cljs" "../" "./")
+
+ ("/Users/wgfm/dev/clj/anakin/src/anakin/" (22141 38009 0 0) "signal_gen.clj" "process.clj" "handler.clj" "../" "./")
+
+ ("/Users/wgfm/dev/portal/" (22129 16020 0 0) "tools/" "src/" "sql/" "run" "portal.iws" "portal.ipr" "portal.iml" "org/" "old/" "leinBuild.sh" "install/" "es/" "doc/" "data/" "CHANGES.md" "build.gradle" "build/" ".project" ".idea/" ".gradle/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/wgfm/dev/js/react/tut/react-tutorial-master/public/scripts/" (22092 50770 0 0) "example.js" "../" "./")
+
+ ("/Users/wgfm/dev/energq/site/css/" (22122 56583 0 0) "tab.css" "style.css" "portal.css" "../" "./")
+
+ ("/Users/wgfm/dev/js/react/tut/react-tutorial-master/public/" (22122 32164 0 0) "scripts/" "index.html" "css/" "cbox.js" "../" "./")
+
+ ("/Users/wgfm/Documents/Kitematic/" (22117 63295 0 0) "hello-world-nginx/" ".DS_Store" "../" "./")
+
+ ("/Users/wgfm/dev/js/react/react-0.14.3/examples/basic/" (22122 30194 0 0) "react-tutorial-master.zip" "index.html" "../" "./")
+
+ ("/Users/wgfm/dev/js/react/tut/react-tutorial-master/" (22092 50770 0 0) "server.rb" "server.py" "server.pl" "server.php" "server.js" "server.go" "requirements.txt" "README.md" "public/" "package.json" "LICENSE" "comments.json" "app.json" ".gitignore" ".editorconfig" "../" "./")
+
+ ("/Users/wgfm/dev/js/react/tut/" (22122 30194 0 0) "react-tutorial-master/" "index.html" "../" "./")
+
+ ("/Users/wgfm/dev/js/react/" (22122 29886 0 0) "tut/" "react-0.14.3/" "../" "./")
+
+ ("/Users/wgfm/dev/energq/sandback/rabbit/" (22118 60463 0 0) "src/" "settings.gradle" "rabbit.iws" "rabbit.ipr" "rabbit.iml" "gradlew.bat" "gradlew" "gradle/" "build.gradle" "build/" ".idea/" ".gradle/" "../" "./")
+
+ ("/Users/wgfm/Documents/Kitematic/hello-world-nginx/website_files/" (22118 37868 0 0) "index.html" ".DS_Store" "../" "./")
+
+ ("/Users/wgfm/dev/js/react/react-0.14.3/examples/" (22122 29543 0 0) "webcomponents/" "transitions/" "shared/" "README.md" "quadratic/" "jquery-mobile/" "jquery-bootstrap/" "basic-jsx-precompile/" "basic-jsx-harmony/" "basic-jsx-external/" "basic-jsx/" "basic-commonjs/" "basic-click-counter/" "basic/" "../" "./")
+
+ ("/Users/wgfm/dev/js/react/react-0.14.3/" (22122 29365 0 0) "README.md" "examples/" "build/" "../" "./")
+
+ ("/Users/wgfm/dev/js/" (22122 29318 0 0) "react/" "../" "./")
+
+ ("/Users/wgfm/Documents/Kitematic/hello-world-nginx/" (22117 63167 0 0) "website_files/" ".DS_Store" "../" "./")
+
+ ("/Users/wgfm/dev/energq/sandback/" (22117 35085 0 0) "rabbit/" "../" "./")
+
+ ("/Users/wgfm/dev/haskell/fp101x/7/" (22116 18538 0 0) "parsing.lhs" "../" "./")
+
+ ("/Users/wgfm/dev/haskell/fp101x/" (22116 17971 0 0) "lab3/" "7/" "6/" "../" "./")
+
+ ("/Users/wgfm/.emacs.d/elpa/paredit-20150217.713/" (22113 49592 0 0) "paredit.elc" "paredit.el" "paredit-pkg.elc" "paredit-pkg.el" "paredit-autoloads.el" "../" "./")
+
+ ("/Users/wgfm/.emacs.d/elpa/" (22108 10919 0 0) "zop-to-char-20150901.47/" "zenburn-theme-20151101.1158/" "with-editor-20151126.323/" "volatile-highlights-20141004.2240/" "vkill-20091203.1022/" "undo-tree-20140509.522/" "spinner-1.4/" "smartrep-20150508.1930/" "smartparens-20151129.529/" "smart-mode-line-20150803.338/" "seq-20151121.1017/" "rich-minority-20151014.438/" "queue-0.1.1/" "projectile-20151111.2318/" "pkg-info-20150517.443/" "pcache-20151109.639/" "paredit-20150217.713/" "ov-20150311.2228/" "operate-on-number-20150706.2323/" "move-text-20140307.844/" "makey-20131231.630/" "magit-popup-20151126.343/" "magit-20151127.215/" "logito-20120225.1255/" "let-alist-1.0.4/" "haskell-mode-20151126.1250/" "guru-mode-20151027.2228/" "grizzl-20150711.2230/" "god-mode-20151005.925/" "gitignore-mode-20150330.1048/" "gitconfig-mode-20150330.1048/" "git-timemachine-20151004.2229/" "git-commit-20151111.418/" "gist-20150906.954/" "gh-20150906.848/" "flycheck-20151128.1058/" "expand-region-20150902.558/" "exec-path-from-shell-20151125.1133/" "epl-20150517.433/" "easy-kill-20151030.2229/" "discover-my-major-20151008.12/" "diminish-20091203.1012/" "diff-hl-20151120.1715/" "dash-20151021.113/" "clojure-mode-20151127.516/" "cider-20151129.745/" "browse-kill-ring-20150829.632/" "better-defaults-20150404.223/" "beacon-20151111.826/" "avy-20151115.837/" "async-20151123.256/" "archives/" "anzu-20151015.405/" "ace-window-20150803.837/" "../" "./")
+
+ ("/Users/wgfm/IdeaProjects/" (22102 47564 0 0) "untitled/" "../" "./")
+
+ ("/Users/wgfm/.emacs.d/core/" (22107 12753 0 0) "prelude-ui.el" "prelude-packages.elc" "prelude-packages.el" "prelude-osx.el" "prelude-mode.elc" "prelude-mode.el" "prelude-global-keybindings.elc" "prelude-global-keybindings.el" "prelude-editor.el" "prelude-custom.elc" "prelude-custom.el" "prelude-core.el" "../" "./")
+
+ ("/Users/wgfm/dev/clj/lightsabre/" (22109 61190 0 0) "target/" "src/" "resources/" "README.md" "project.clj" "figwheel_server.log" ".gitignore" "../" "./")
+
+ ("/Users/wgfm/dev/clj/lightsabre/resources/public/" (22109 47431 0 0) "js/" "index.html" "css/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/lightsabre-/src/lightsabre/" (22109 47223 0 0) "core.cljs" "../" "./")
+
+ ("/Users/wgfm/dev/clj/lightsabre-/src/" (22109 45419 0 0) "lightsabre/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/lightsabre-/" (22109 45707 0 0) "target/" "src/" "resources/" "README.md" "project.clj" "figwheel_server.log" ".gitignore" "../" "./")
+
+ ("/Users/wgfm/dev/clj/lightsabre/src/" (22109 47298 0 0) "lightsabre/" "../" "./")
+
+ ("/Users/wgfm/dev/portal/src/main/cljs/profile_management/src/" (22104 11919 0 0) "profile_management/" "../" "./")
+
+ ("/Users/wgfm/dev/portal/src/main/cljs/" (22101 64152 0 0) "user_management/" "profile_management/" "leinBuild.sh" "incubate_account/" "create_user/" "../" "./")
+
+ ("/Users/wgfm/dev/portal/src/main/" (22101 64152 0 0) "webapp/" "resources/" "java/" "cljs/" "../" "./")
+
+ ("/Users/wgfm/dev/portal/src/" (22101 64152 0 0) "test/" "main/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/lightsabre/resources/" (22109 45419 0 0) "public/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/anakin/src/" (22109 44580 0 0) "anakin/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/anakin/src/clj/anakin/" (22109 43106 0 0) "signal_gen.clj" "server.clj" "process.clj" "handler.clj" "../" "./")
+
+ ("/Users/wgfm/dev/clj/anakin/env/dev/clj/anakin/" (22109 30379 0 0) "dev.clj" "../" "./")
+
+ ("/Users/wgfm/dev/clj/anakin/env/dev/clj/" (22109 30379 0 0) "anakin/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/anakin/env/dev/" (22109 30379 0 0) "cljs/" "clj/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/anakin/env/" (22109 30379 0 0) "test/" "prod/" "dev/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/anakin/test/clj/anakin/" (22109 30379 0 0) "example_test.clj" "../" "./")
+
+ ("/Users/wgfm/dev/clj/anakin/test/clj/" (22109 30379 0 0) "anakin/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/anakin/test/" (22109 30379 0 0) "cljs/" "clj/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/anakin/src/clj/" (22109 30379 0 0) "anakin/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/energq/obiwan/" (22109 26012 0 0) "test/" "target/" "system.properties" "src/" "resources/" "README.md" "project.clj" "Procfile" "LICENSE" "env/" "dev-resources/" "code_of_conduct.md" ".nrepl-port" ".lein-repl-history" ".lein-env" ".gitignore" "../" "./")
+
+ ("/Users/wgfm/dev/clj/anakin/resources/public/" (22109 25958 0 0) "index.html" "../" "./")
+
+ ("/Users/wgfm/dev/clj/energq/obiwan/resources/public/" (22105 34318 0 0) "js/" "css/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/energq/obiwan/resources/" (22102 47264 0 0) "public/" "index.html" "../" "./")
+
+ ("/Users/wgfm/dev/clj/anakin/resources/" (22108 51209 0 0) "public/" "../" "./")
+
+ ("/Users/wgfm/dev/haskell/fp101x/lab3/" (22108 27229 0 0) "lab3.hs" "../" "./")
+
+ ("/Users/wgfm/dev/clj/energq/obiwan/src/clj/obiwan/" (22108 50975 0 0) "server.clj" "../" "./")
+
+ ("/Users/wgfm/dev/clj/anakin/test/anakin/" (22108 51209 0 0) "handler_test.clj" "../" "./")
+
+ ("/Users/wgfm/dev/haskell/fp101x/6/" (22108 23005 0 0) "two.hs" "twelve.hs" "three.hs" "thirteen.hs" "test.hs" "ten.hs" "six.hs" "seven.hs" "one.hs" "nine.hs" "four.hs" "five.hs" "eleven.hs" "eight.hs" "../" "./")
+
+ ("/Users/wgfm/dev/haskell/" (22108 10850 0 0) "fp101x/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/cmd-line-args/src/cmd_line_args/" (22107 26392 0 0) "core.clj" "../" "./")
+
+ ("/Users/wgfm/dev/clj/cmd-line-args/" (22107 19646 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "dev-resources/" "CHANGELOG.md" ".nrepl-port" ".lein-failures" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/wgfm/dev/clj/cmd-line-args/test/cmd_line_args/" (22107 18681 0 0) "core_test.clj" "../" "./")
+
+ ("/Users/wgfm/dev/clj/cmd-line-args/test/" (22107 13784 0 0) "cmd_line_args/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/cmd-line-args/src/" (22107 13784 0 0) "cmd_line_args/" "../" "./")
+
+ ("/Users/" (22100 50528 0 0) "wgfm/" "Shared/" ".localized" "../" "./")
+
+ ("/Users/wgfm/dev/clj/energq/obiwan/src/clj/" (22105 34363 0 0) "obiwan/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/energq/obiwan/src/" (22105 34359 0 0) "cljs/" "clj/" "../" "./")
+
+ ("/Users/wgfm/dev/clj/energq/" (22102 47264 0 0) "obiwan/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
